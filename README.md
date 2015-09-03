@@ -1,8 +1,5 @@
-![logo](logo.png)
-
-# Maingo
-Delicious logo service
-===
+# maingo <img src="logo.png" width="75px"/>
+##### Delicious logo service
 
 Maingo is a simple way to fetch logos and concatente them into a collage.
 
