@@ -8,7 +8,7 @@ How to call the service?
 ===
 Example Request
 
-    http://maingo.ml/logo/canvas?q=redis,scala,python
+    GET http://maingo.ml/logo/canvas?q=redis,scala,python
   
 Explanation
 
