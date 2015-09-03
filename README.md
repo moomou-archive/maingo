@@ -1,5 +1,4 @@
-# maingo <img src="logo.png" width="75px"/>
-##### Delicious logo service
+# maingo - Delicious logo service <img src="logo.png" width="75px"/>
 
 Maingo is a simple way to fetch logos and concatente them into a collage.
 
@@ -12,5 +11,6 @@ Example Use Case
 
 [ Logoify resume ]()
 
-Credit
+Built with
 ==
+<img src="built_with.png">
