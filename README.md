@@ -26,11 +26,17 @@ Once all the dependencies are setup, you can run the program `./go-reload fishbo
 
 FAQ
 ===
-Q: Where are logos coming from?
+Q: Where are logos coming from? And what logos are available?
 
 A: The logos are manually curated and available on Github [here](https://github.com/moo-mou/logo).
 
 <br>
+
+Q: What is that logo at the top? That looks <em>delicious</em>!
+
+A: It's the famous mango ice from Taiwan. It is a variation of [baobing](https://en.wikipedia.org/wiki/Baobing).
+
+<br> 
 
 Q: Why <i>fishbowl</i>?
 
