@@ -1,6 +1,7 @@
 ![logo](logo.png)
 
-Maingo - a simple logo service
+# Maingo
+Delicious logo service
 ===
 
 Maingo is a simple way to fetch logos and concatente them into a collage.
