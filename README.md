@@ -27,9 +27,13 @@ Once all the dependencies are setup, you can run the program `./go-reload fishbo
 FAQ
 ===
 Q: Where are logos coming from?
+
 A: The logos are manually curated and available on Github [here](https://github.com/moo-mou/logo).
 
+<br>
+
 Q: Why <i>fishbowl</i>?
+
 A: The idea is the API server can be extended with many services and they all live in the same bowl!
 
 Example Use Case
