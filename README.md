@@ -1,3 +1,5 @@
+![logo](logo.png)
+
 Maingo - a simple logo service
 ===
 
