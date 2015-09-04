@@ -44,7 +44,9 @@ A: The idea is the API server can be extended with many services and they all li
 
 Example Use Case
 ===
-[ Built with Collage ](https://github.com/moo-mou/maingo#built-with)
+Built with Collage - [here](https://github.com/moo-mou/ekho#built-with) and [here](https://github.com/moo-mou/gitective#built-with).
+
+Logoify your resume with a simple script - [demo](http://www.moo-mou.com/) with this [script](https://github.com/moo-mou/moo-mou.github.io/blob/master/src/maingo.js)
 
 Built with
 ===
