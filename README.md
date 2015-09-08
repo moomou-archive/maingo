@@ -1,6 +1,6 @@
 # maingo - delicious logo service <img src="logo.png" width="75px"/>
 
-Maingo is a simple way to fetch logos and concatente them into a collage.
+Maingo is a simple way to fetch logos and concatenate them into a collage.
 
 This is currently deployed at `http://maingo.ml`
 
